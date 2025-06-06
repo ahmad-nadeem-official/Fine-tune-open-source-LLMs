@@ -4,7 +4,7 @@ Welcome to **Fine-Tune Phi-2 with QLoRA**, an innovative project that demonstrat
 
 🔗 **Repository Name**: Fine-Tune Phi-2 with QLoRA  
 📅 **Last Updated**: June 2025  
-👨‍💻 **Author**: \[Muhammad Ahmad Nadeem\]
+👨‍💻 **Author**: Muhammad Ahmad Nadeem
 
 * * *
 
