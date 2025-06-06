@@ -1,4 +1,4 @@
-🌟 **Fine-Tune Phi-2 with QLoRA!** 🌟
+# 🌟 **Fine-Tune Phi-2 with QLoRA!** 🌟
 
 Welcome to **Fine-Tune Phi-2 with QLoRA**, an innovative project that demonstrates how to fine-tune the lightweight **microsoft/phi-2** language model using **QLoRA (Quantized Low-Rank Adaptation)** on a single text document! This repository showcases an efficient fine-tuning pipeline designed for resource-constrained environments, leveraging **4-bit quantization**, **LoRA**, and **PyTorch** to adapt the model to specific data (e.g., bio.txt). Perfect for developers, researchers, or AI enthusiasts looking to customize open-source LLMs with minimal hardware requirements! 🚀
 
